@@ -156,7 +156,7 @@ PlayerSettings:
     Android: com.quasistudio.kosakatatunarungu
     Standalone: com.Company.ProductName
   buildNumber: {}
-  AndroidBundleVersionCode: 1
+  AndroidBundleVersionCode: 2
   AndroidMinSdkVersion: 16
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
@@ -245,7 +245,7 @@ PlayerSettings:
   AndroidTargetArchitectures: 4
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: F:/JanuarElsan/My Projects/Bragazzz/quasistudio.keystore
+  AndroidKeystoreName: F:/JanuarElsan/My Projects/Indie Project/kosakata_tunarungu/quasistudio.keystore
   AndroidKeyaliasName: quasi studio
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
