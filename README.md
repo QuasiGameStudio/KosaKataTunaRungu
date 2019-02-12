@@ -4,6 +4,8 @@ Kosa Kata Tuna Rungu Untuk Anak adalah media pembelajaran kosa kata untuk anak y
 
 Untuk menguji kemampuan anak, terdapat Kuis didalam aplikasi ini.
 
+Aplikasi dapat diunduh di https://play.google.com/store/apps/details?id=com.quasistudio.kosakatatunarungu
+
 Credit: Aplikasi ini dibangun untuk memenuhi salah satu bagian dalam tugas akhir Bragas Adi Setyo S.Kom
 
-Applikasi dapat diunduh di https://play.google.com/store/apps/details?id=com.quasistudio.kosakatatunarungu
+
